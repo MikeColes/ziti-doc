@@ -2,7 +2,7 @@
 
 [Yubico](https://www.yubico.com/) is a manufacturer of HSM deviceis. A popular line of HSM produced by Yubico is the
 YubiKey. This quickstart guide will use specific device from Yubico - the [YubiKey 5
-nfc](https://www.yubico.com/product/YubiKey-5-nfc).
+nfc](https://www.yubico.com/product/yubikey-5c-nfc/).
 
 ## Overview
 
